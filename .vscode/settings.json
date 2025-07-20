@@ -5,6 +5,7 @@
     "editor.insertSpaces": true,
     "editor.detectIndentation": false,
     "prettier.tabWidth": 4,
+    "prettier.printWidth": 150,
     "prettier.useTabs": false,
     // "liveServer.settings.useLocalIp": true,
     // "liveServer.settings.port": 5600,
